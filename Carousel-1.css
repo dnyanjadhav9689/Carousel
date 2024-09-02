@@ -1,0 +1,95 @@
+
+
+.nav{
+    height: 70px;
+    align-items: center;
+    align-content: center;
+    padding-top: 10px;
+}
+
+.urban-logo{
+    
+    margin-left: 9%;
+   
+}
+
+.nav-list{
+    display: flex;
+    width: 20%;
+}
+.list-style{
+    display: flex;
+   list-style: none;
+   align-items: center;
+   align-content: center;
+   padding-top: 15px;
+   font-size: 14px;
+}
+.list-style li{
+    margin: 18px;
+    color: rgba(0, 0, 0, .5);
+}
+
+.container-map{
+    width: 17%;
+    display: flex;
+    border: 1px;
+    outline: 1px solid rgb(220, 220, 220);
+    height: 45px;
+    border-radius: 7px;
+    align-items: center;
+    align-content: center;
+    margin-left: 3%;
+}
+.search-map{
+    width: 10%;
+   margin-left: 10px;
+}
+.map-placeholder{
+    width: 70%;
+}
+.map-placeholder input{
+    border: none;
+    outline: none;
+    font-size: 14px;
+    width: 100%;
+}
+.map-data{
+    width: 10%;
+    align-items: center;
+    align-content: center;
+    margin-left: 10px;
+}
+
+.container-search{
+    width: 17%;
+    display: flex;
+    border: 1px;
+    outline: 1px solid rgb(220, 220, 220);
+    height: 45px;
+    border-radius: 7px;
+    align-items: center;
+    align-content: center;
+    margin-left: 10px;
+}
+.search-icon{
+    width: 10%;
+   margin-left: 10px;
+}
+.search-placeholder input{
+    border: none;
+    outline: none;
+    font-size: 14px;
+    width: 100%;
+}
+
+.menu{
+    margin-left: 10%;
+}
+.menu svg{
+    height: 50px;
+    margin: 20px;
+}
+hr{
+    color: rgb(220, 220, 220);
+}
